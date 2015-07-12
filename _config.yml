@@ -1,11 +1,12 @@
-auto:        false
-destination: _site
-permalink:   pretty
-pygments:    true
+safe:        false
+auto:        true
+server:      false
+url:         http://jackson15j.github.io
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+layouts:     ./_layouts
+data_source: ./_data
+future:      true
 markdown:    maruku
 permalink:   date
-maruku:
-  use_tex:    false
-  use_divs:   true
-  png_dir:    images/latex
-  png_url:    /images/latex
