@@ -1,11 +1,7 @@
-# -*- coding: utf-8 -*-
-#+begin_html
-'---
 ---
 layout: default
 title: Jackson15J Github blog
 ---
-#+end_html
 * level 1:
   - stuff
 * another post:							       :blog:
