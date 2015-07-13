@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{{ page.title }}</title>
-  </head>
+
+  {% include head.html %}
+
   <body>
-    <h1><a href="/index.html">Jackson15j.github.io</a></h1>
-    {{ content }}
-    <h2>Recent Posts</h2>
-    <ul>
-      {% for post in site.posts do %}
-      <li>
-	{{ post.date }} <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-      {% endfor %}
-    </ul>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
   </body>
+
 </html>
