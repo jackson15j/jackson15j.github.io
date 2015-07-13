@@ -1,12 +1,17 @@
 safe:        false
 auto:        true
 server:      false
-url:         http://jackson15j.github.io
 source:      .
 destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
 data_source: ./_data
 future:      true
-markdown:    maruku
+markdown:    redcarpet
 permalink:   date
+
+# setup:
+title: Jackson15J Blog
+tagline: 'Some code but mostly cycling'
+url: http://jackson15j.github.io
+paginate: 15
