@@ -6,8 +6,8 @@
 </description>
     <link>http://jackson15j.github.io/</link>
     <atom:link href="http://jackson15j.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Jul 2015 13:28:28 +0100</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2015 13:28:28 +0100</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2015 13:39:57 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2015 13:39:57 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -42,6 +42,22 @@ Gallery (Test):
         <pubDate>Sun, 21 Jun 2015 00:00:00 +0100</pubDate>
         <link>http://jackson15j.github.io/2015/06/21/Lejog---Day-0.html</link>
         <guid isPermaLink="true">http://jackson15j.github.io/2015/06/21/Lejog---Day-0.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>TODO Lejog 2015</title>
+        <description>&lt;p&gt;
+TODO: Pre-planning and Summary.
+&lt;a href=&quot;https://www.strava.com/athletes/5681664/heatmaps/45d28579#5/55.67758/0.26367&quot;&gt;Strava Heatmap&lt;/a&gt;
+&lt;/p&gt;
+&lt;iframe height=&#39;405&#39; width=&#39;590&#39; frameborder=&#39;0&#39; allowtransparency=&#39;true&#39;
+scrolling=&#39;no&#39; src=&#39;https://www.strava.com/athletes/5681664/heatmaps/45d28579#5/55.67758/0.26367&#39;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Fri, 05 Jun 2015 00:00:00 +0100</pubDate>
+        <link>http://jackson15j.github.io/2015/06/05/TODO-Lejog-2015.html</link>
+        <guid isPermaLink="true">http://jackson15j.github.io/2015/06/05/TODO-Lejog-2015.html</guid>
         
         
       </item>
