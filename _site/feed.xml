@@ -6,8 +6,8 @@
 </description>
     <link>http://jackson15j.github.io/</link>
     <atom:link href="http://jackson15j.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Jul 2015 13:27:12 +0100</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2015 13:27:12 +0100</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2015 13:28:28 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2015 13:28:28 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -42,19 +42,6 @@ Gallery (Test):
         <pubDate>Sun, 21 Jun 2015 00:00:00 +0100</pubDate>
         <link>http://jackson15j.github.io/2015/06/21/Lejog---Day-0.html</link>
         <guid isPermaLink="true">http://jackson15j.github.io/2015/06/21/Lejog---Day-0.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>This is a wayback post</title>
-        <description>&lt;h1 id=&quot;this-is-a-wayback-post&quot;&gt;This is a wayback post&lt;/h1&gt;
-
-&lt;p&gt;If it were really 1900, I don’t think we would be building a Jekyll site!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 Jan 1900 00:00:00 +0100</pubDate>
-        <link>http://jackson15j.github.io/1900/01/01/wayback-post.html</link>
-        <guid isPermaLink="true">http://jackson15j.github.io/1900/01/01/wayback-post.html</guid>
         
         
       </item>
