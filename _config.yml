@@ -1,8 +1,8 @@
 # Site settings
-title: Jackson15j Github Blog
+title: jackson15j.github.io
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Some code but mostly cycling
+  Craig Astill: Coding from the saddle.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jackson15j.github.io" # the base hostname & protocol for your site
 twitter_username: jackson15jj
