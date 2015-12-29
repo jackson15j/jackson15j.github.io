@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "LEJOG 2015 Preparations"
+title:  "LEJOG 2015 - Preparations"
 date:   2015-06-05 16:00:00 +0000
 categories: cycling lejog
 ---
@@ -8,7 +8,6 @@ categories: cycling lejog
 Will write some more about the Pre-planning for the trip. Until then, here is
 the Heatmap of the whole adventure
 [Strava Heatmap](https://www.strava.com/athletes/5681664/heatmaps/45d28579#5/55.67758/0.26367):
-
 <iframe height='405' width='590' frameborder='0' allowtransparency='true'
 	scrolling='no'
 	src='https://www.strava.com/athletes/5681664/heatmaps/45d28579#5/55.67758/0.26367'>
